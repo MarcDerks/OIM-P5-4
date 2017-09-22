@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: : 0;
+	font-family: 'Arial', serif;
+}
+.nav {
+	background-color: rgb(64,64,64);
+	color: #ffffff;
+	list-style: none;
+	text-align: left;
+	padding: 0px 0 0px 0
+	margin 10px;
+}
+
+.nav > li {
+	display: inline-block;
+	padding: 10px 25px 0 25px;
+	vertical-align: text-top;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: #ffffff;
+	vertical-align: text-top;
+}
+
+.nav >li > a:hover {
+	color: #c1c1c1;
+}
