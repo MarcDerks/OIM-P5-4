@@ -9,10 +9,9 @@ OIM website code
      <li> <a href="Home.html"><img src="logo.jpg" width="200" height="100" alt="logo" id="Robot"></a> </li>
   </ul>
   <ul class="nav">
-    <li> Home </li>
-    <li> Store </li>
-    <li> About </li>
-    <li> Contact </li>
+    <li> <a href="Store.html">Store</a> </li>
+    <li> <a href="About.html">About</a> </li>
+    <li> <a href="Contact.html">Contact</a> </li>
   </ul>
 </head>
 <body>
